@@ -1,0 +1,13 @@
+cocodrilo
+leon
+jirafa
+perro
+playa
+bosque
+arbol
+roca
+carro
+rojo 
+azul
+amarillo
+negro
